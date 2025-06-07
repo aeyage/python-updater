@@ -1,4 +1,4 @@
-## Install or update Python on macOS
+## Python Version Manager on macOS
 
 
 1. Install Homebrew (Package Manager for macOS as well as Linux) if you have not already.
